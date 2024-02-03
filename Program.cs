@@ -1,7 +1,13 @@
 ﻿namespace ExemploAula1
 {
+    /// <summary>
+    /// Classe responsável pela inicialização do sistema
+    /// </summary>
     public class Program
     {
+        /// <summary>
+        /// Ponto de entrada do sistema
+        /// </summary>
         static void Main()
         {
             Console.Write("Informe o primeiro número: ");
